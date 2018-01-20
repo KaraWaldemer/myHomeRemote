@@ -1,0 +1,3 @@
+rootProject.name = 'myHomeRemote'
+
+include ':app'
